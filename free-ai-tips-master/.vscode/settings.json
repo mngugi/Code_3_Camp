@@ -1,0 +1,4 @@
+{
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+}

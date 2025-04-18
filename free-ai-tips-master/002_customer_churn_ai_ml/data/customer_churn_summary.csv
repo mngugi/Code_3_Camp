@@ -1,0 +1,101 @@
+customer_id,age,tenure,spend_rate,plan_type,churn,ticket_notes,ticket_summary
+C001,27,2,80,monthly,0,Customer had a minor billing issue that was resolved quickly.,"The customer experienced a minor billing issue, which was resolved quickly."
+C002,33,5,90,monthly,0,"Customer asked a few questions about product features, no major complaints.",The customer inquired about various product features but did not express any significant complaints.
+C003,22,1,75,monthly,1,Customer complained about delayed support responses and unclear refund policy.,The customer is frustrated with slow support response times and finds the refund policy to be unclear.
+C004,29,3,100,monthly,0,"Customer requested additional information on upgrades, generally neutral.",The customer is seeking additional information regarding upgrades. Their tone is generally neutral.
+C005,35,6,110,monthly,1,Customer expressed frustration with the mobile app crashing frequently.,The customer is frustrated with the mobile app due to frequent crashes.
+C006,25,4,95,monthly,0,Customer mentioned a slightly slow website but seemed understanding.,The customer reported that the website is slightly slow but expressed understanding regarding the issue.
+C007,41,8,120,monthly,1,Customer repeatedly complained about billing errors and poor product quality.,The customer is primarily concerned about ongoing billing errors and the subpar quality of the product.
+C008,30,7,85,monthly,0,"Customer asked about discounts, no major dissatisfaction.",The customer inquired about available discounts but did not express any significant dissatisfaction.
+C009,28,2,60,monthly,1,Customer is unhappy with recent price hikes and limited support hours.,The customer is dissatisfied with recent price increases and the restricted hours of support available.
+C010,34,10,130,monthly,0,Customer had minor issues but praised quick email response.,The customer experienced minor issues but expressed satisfaction with the quick email response they received.
+C011,26,3,70,monthly,1,Customer indicated disappointment with recurring technical glitches.,The customer expressed disappointment due to ongoing technical glitches they are experiencing.
+C012,40,9,115,monthly,0,"Customer seemed neutral, just routine queries on billing cycles.","The customer inquired about billing cycles, expressing no strong feelings or complaints."
+C013,24,2,65,monthly,0,"Customer asked simple questions about service terms, no complaints.",The customer inquired about service terms but did not express any complaints.
+C014,32,6,100,monthly,1,Customer frustrated about delivery delays and no resolution from support.,The customer is frustrated due to delays in delivery and has not received a resolution from support.
+C015,29,5,90,monthly,0,"Customer inquired about gift vouchers, no negative feedback.",The customer inquired about gift vouchers and did not express any negative feedback.
+C016,35,11,140,monthly,0,"Customer reported a small issue once, resolved efficiently.",The customer reported a minor issue that was resolved quickly and effectively.
+C017,27,4,80,monthly,1,Customer complained about website downtime affecting their usage.,The customer reported an issue with website downtime that is impacting their ability to use the service.
+C018,31,8,125,monthly,0,"Customer requested info on add-ons, generally satisfied.",The customer inquired about add-ons and expressed general satisfaction with the information provided.
+C019,23,1,50,monthly,1,Customer angry about the difficulty in canceling subscription.,The customer is frustrated with the challenges they are facing in canceling their subscription.
+C020,36,10,135,monthly,0,Customer had a minor complaint about slow loading but was okay afterward.,The customer reported a minor complaint regarding slow loading times but expressed that they were satisfied afterward.
+C021,28,2,60,monthly,1,Customer unhappy with repeated billing errors and unhelpful support.,The customer is frustrated due to ongoing billing errors and has found the support they received to be unhelpful.
+C022,34,7,110,monthly,0,"Customer asked about seasonal discounts, seemed content.",The customer inquired about seasonal discounts and appeared satisfied with the information provided.
+C023,30,5,95,monthly,0,"Customer reported a small glitch in the app, but praised quick fix.",The customer reported a small glitch in the app but expressed appreciation for the quick fix.
+C024,42,12,150,monthly,1,Customer wrote a negative review citing poor customer service.,"The customer expressed dissatisfaction with the service they received, highlighting poor customer service as their main complaint."
+C025,25,4,85,monthly,0,"Customer curious about payment plans, neutral feedback.",The customer is inquiring about payment plans and has provided neutral feedback.
+C026,33,8,120,monthly,1,Customer threatened to leave due to constant login issues and no resolution.,The customer is frustrated with ongoing login issues and has expressed a desire to leave if the problem is not resolved.
+C027,29,6,100,monthly,0,"Customer had minor questions about return policies, no negativity.","The customer inquired about return policies and had some minor questions, but expressed no negativity."
+C028,26,3,75,monthly,1,Customer frustrated by slow responses to their queries.,The customer is frustrated due to slow responses to their queries.
+C029,37,9,130,monthly,0,"Customer inquired about loyalty points, seemed generally satisfied.",The customer inquired about loyalty points but appeared generally satisfied with the response.
+C030,31,2,90,monthly,0,"Customer mentioned slight dissatisfaction, but no major complaints.",The customer expressed slight dissatisfaction but did not have any major complaints.
+C031,45,20,300,annual,0,"Customer praised reliable service, no major issues.",The customer expressed satisfaction with the reliable service and reported no major issues.
+C032,39,15,250,annual,0,"Customer seems satisfied, asked about upgrading to a premium tier.",The customer is inquiring about upgrading to a premium tier.
+C033,50,24,400,annual,0,Customer regularly praises product quality and responsive support.,The customer consistently expresses satisfaction with the product quality and the responsiveness of the support team.
+C034,44,18,280,annual,0,"Customer happy with long-term subscription, no negative feedback.",The customer is satisfied with their long-term subscription and has no negative feedback to report.
+C035,53,30,350,annual,0,"Customer delighted with service, recommended it to friends.",The customer is pleased with the service and has recommended it to friends.
+C036,47,22,420,annual,1,"Customer complained about recent policy changes, considered canceling.",The customer expressed dissatisfaction with recent policy changes and is contemplating canceling their service.
+C037,36,14,220,annual,0,"Customer expressed satisfaction, minimal follow-up needed.",The customer is satisfied with the service and requires minimal follow-up.
+C038,55,26,450,annual,0,Customer praised quick shipping and smooth transaction process.,The customer expressed satisfaction with the quick shipping and smooth transaction process.
+C039,41,16,300,annual,0,"Customer requested info on gift subscriptions, no complaints.","Customer inquired about gift subscriptions, no complaints noted."
+C040,58,36,500,annual,0,"Customer extremely satisfied, loyal for years.",The customer is extremely satisfied and has been a loyal customer for years.
+C041,33,2,85,monthly,1,Customer complained about unclear pricing and lack of support.,The customer is dissatisfied due to unclear pricing and insufficient support.
+C042,29,6,100,monthly,0,"Customer had a minor issue with coupon codes, otherwise fine.",The customer experienced a minor issue with coupon codes but is otherwise satisfied.
+C043,35,12,150,monthly,0,"Customer generally satisfied, asked about referral bonuses.",The customer is generally satisfied but inquired about referral bonuses.
+C044,23,1,70,monthly,1,Customer furious about hidden fees and no prompt resolution.,The customer is extremely upset about hidden fees they encountered and is frustrated by the lack of a prompt resolution to their issue.
+C045,30,4,95,monthly,0,"Customer curious about new features, neutral sentiment.","The customer is inquiring about new features, expressing a neutral sentiment regarding their interest."
+C046,26,3,80,monthly,1,Customer disappointed with repeated app crashes and slow fixes.,The customer is frustrated with frequent app crashes and the slow response to fixing these issues.
+C047,28,5,90,monthly,0,Customer had a minor problem but reported good support follow-up.,The customer experienced a minor issue but expressed satisfaction with the support follow-up they received.
+C048,40,10,140,monthly,1,Customer complained about inconsistent product quality and slow refunds.,The customer is dissatisfied with the inconsistent quality of the product and is experiencing delays in receiving refunds.
+C049,25,2,65,monthly,1,Customer upset about long hold times on support calls.,The customer is frustrated with the lengthy hold times experienced during support calls.
+C050,34,7,105,monthly,0,"Customer asked about loyalty programs, no major complaints.",The customer inquired about loyalty programs but did not express any major complaints.
+C051,45,18,320,annual,0,Customer happy with dedicated support line and benefits.,The customer is satisfied with the dedicated support line and the benefits it provides.
+C052,38,24,270,annual,0,Customer praised consistent service and quality products.,The customer expressed satisfaction with the consistent service and quality of products.
+C053,54,28,450,annual,0,"Customer satisfied, mentioned good value for money.",The customer is satisfied and appreciates the good value for money.
+C054,42,16,310,annual,0,"Customer content with annual plan, appreciated discounts.",The customer is satisfied with their annual plan and appreciates the discounts they received.
+C055,51,20,400,annual,0,"Customer delighted, recommended service to colleagues.",The customer is very pleased with the service and has recommended it to their colleagues.
+C056,46,14,220,annual,1,"Customer noted recent issues with delayed responses, considering leaving.",The customer is experiencing delays in responses and is contemplating leaving due to this issue.
+C057,35,12,280,annual,0,"Customer fine with service, minor queries addressed quickly.",The customer is satisfied with the service and had only minor queries that were resolved quickly.
+C058,49,25,420,annual,0,Customer complimented product reliability and prompt solutions.,The customer expressed satisfaction with the product's reliability and the promptness of the solutions provided.
+C059,39,15,290,annual,0,"Customer inquired about gift options, seemed satisfied.",The customer inquired about gift options and appeared to be satisfied with the information provided.
+C060,52,22,350,annual,0,"Customer loyal for years, no negative notes.","The customer, a long-time loyal member with no previous complaints, has submitted a ticket expressing a specific issue or request."
+C061,27,2,80,monthly,0,"Customer neutral, asked about adding a second user.",The customer inquired about the process for adding a second user to their account.
+C062,31,5,95,monthly,1,Customer complained about frequent downtime and lost access.,The customer is experiencing frequent downtime and has lost access to the service.
+C063,29,3,90,monthly,0,Customer had billing query resolved promptly.,The customer had a billing query that was resolved quickly.
+C064,23,1,70,monthly,1,Customer unhappy with poor product quality and no refund.,The customer is dissatisfied with the poor quality of the product and is requesting a refund.
+C065,33,4,85,monthly,0,"Customer requested basic info, neutral sentiment.",The customer requested basic information and expressed a neutral sentiment.
+C066,36,8,120,monthly,1,Customer complained about slow customer service and unanswered emails.,The customer is frustrated with slow customer service and has not received responses to their emails.
+C067,28,6,110,monthly,0,"Customer mentioned slight confusion about features, got clarifications.",The customer expressed slight confusion regarding certain features but received the necessary clarifications.
+C068,32,9,130,monthly,1,Customer frustrated by recurring technical errors.,The customer is frustrated due to ongoing technical errors that keep occurring.
+C069,24,2,60,monthly,1,Customer angry about hidden fees and no support response.,The customer is frustrated due to hidden fees they encountered and has not received a response from support regarding their concerns.
+C070,30,5,100,monthly,0,Customer made a small complaint but seemed okay after support.,The customer had a minor complaint but appeared satisfied after receiving support.
+C071,44,17,260,annual,0,"Customer expressed satisfaction, appreciated proactive communication.",The customer expressed satisfaction with the service and appreciated the proactive communication.
+C072,50,26,400,annual,0,Customer praised exceptional service and no issues.,The customer expressed satisfaction with the exceptional service received and reported no issues.
+C073,39,14,220,annual,0,Customer content with value and reliability.,The customer is satisfied with the value and reliability of the service or product.
+C074,57,30,500,annual,0,"Customer delighted, mentioned never having a problem.",The customer expressed satisfaction and noted that they have never encountered any issues.
+C075,46,18,320,annual,0,Customer satisfied with product range and support quality.,The customer is satisfied with the product range and the quality of support they received.
+C076,53,24,380,annual,0,"Customer praised smooth experience, no complaints.",The customer expressed satisfaction with a smooth experience and had no complaints.
+C077,48,20,340,annual,0,"Customer fine with service, minor inquiries answered well.",The customer is satisfied with the service and had only minor inquiries that were addressed effectively.
+C078,35,12,250,annual,1,Customer noted dissatisfaction with recent platform changes.,The customer expressed dissatisfaction with recent changes made to the platform.
+C079,41,16,300,annual,0,"Customer happy overall, praised loyalty rewards.",The customer is generally satisfied and has expressed appreciation for the loyalty rewards program.
+C080,58,32,450,annual,0,Customer appreciative of responsive customer care.,The customer expressed appreciation for the responsive customer care they received.
+C081,26,3,85,monthly,1,Customer complained about inconsistent billing and poor communication.,The customer is experiencing issues with inconsistent billing and has expressed dissatisfaction with the communication regarding these billing discrepancies.
+C082,29,7,105,monthly,0,Customer mentioned minor glitch but resolved swiftly.,The customer reported a minor glitch but noted that it was resolved quickly.
+C083,34,4,90,monthly,1,Customer upset about unanswered refund requests.,The customer is frustrated due to multiple unanswered requests for a refund.
+C084,31,8,115,monthly,0,"Customer neutral, asked about add-on services.",The customer inquired about available add-on services.
+C085,25,2,75,monthly,1,Customer angry about price increases without notice.,The customer is upset about recent price increases that were implemented without prior notification.
+C086,37,10,140,monthly,0,Customer had a small issue but got prompt support.,The customer experienced a minor issue but received quick and effective support.
+C087,28,6,95,monthly,0,"Customer inquired about promotions, no negativity.",The customer is inquiring about available promotions.
+C088,22,1,60,monthly,1,Customer disappointed with complicated cancellation process.,The customer is frustrated with the complicated process for canceling their service.
+C089,33,4,100,monthly,1,Customer frustrated by frequent downtime and slow support responses.,The customer is frustrated due to frequent downtime and slow responses from support.
+C090,40,11,150,monthly,0,Customer reported minor shipping delay but fine afterward.,The customer reported a minor shipping delay but stated that they were satisfied with the outcome afterward.
+C091,44,18,310,annual,0,Customer praised stable platform and helpful staff.,The customer expressed satisfaction with the stable platform and the helpfulness of the staff.
+C092,38,14,280,annual,0,Customer pleased with consistent quality and timely assistance.,The customer is satisfied with the consistent quality of service and the timely assistance they have received.
+C093,51,22,360,annual,0,"Customer satisfied, mentioned easy renewals.",The customer is satisfied with the service and specifically mentioned that the renewal process is easy.
+C094,47,19,320,annual,0,Customer appreciated transparent policies and quick answers.,The customer expressed appreciation for the transparent policies and prompt responses they received.
+C095,56,28,480,annual,0,"Customer delighted, no negative experiences.",The customer is pleased and has no complaints or negative experiences to report.
+C096,42,15,270,annual,0,Customer happy with annual discounts and perks.,The customer is satisfied with the annual discounts and perks they receive.
+C097,54,25,420,annual,0,Customer highlighted good value and support.,"The customer expressed satisfaction with the value and support received, but did not specify a main complaint or request."
+C098,49,21,350,annual,1,Customer complained recently about slow refunds.,The customer is experiencing issues with slow refunds and is seeking assistance regarding this matter.
+C099,36,13,240,annual,0,"Customer satisfied, just regular inquiries.",The customer is satisfied and has only made regular inquiries.
+C100,58,30,500,annual,0,"Customer loyal for many years, always positive feedback.","The customer, a long-time loyal patron with a history of positive feedback, has submitted a ticket expressing a specific complaint or request."

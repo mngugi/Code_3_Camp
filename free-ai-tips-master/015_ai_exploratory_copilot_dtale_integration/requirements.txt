@@ -1,0 +1,13 @@
+ai-data-science-team>=0.0.0.9016
+streamlit
+sqlalchemy
+pandas
+asyncio
+langchain
+langchain-openai
+langgraph
+openai
+missingno
+sweetviz
+pytimetk
+dtale
